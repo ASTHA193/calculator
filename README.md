@@ -1,5 +1,5 @@
 # calculator
-A sample C programming code for a real time calculator application program is given below. This program will perform the below calculator operations-
+A sample C programming code for a real time calculator application program is given below . This program will perform the below calculator operations-
 Addition,
 Subtraction,
 Multiplication ,
