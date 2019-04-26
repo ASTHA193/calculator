@@ -3,5 +3,5 @@ A sample C programming code for a real time calculator application program is gi
 Addition,
 Subtraction,
 Multiplication,
-Division<br/>
+Division.<br/>
 [Way to the code](https://github.com/ASTHA193/calculator/commit/b941675be4c3ac22ad15486125cd592715efdaa8)
